@@ -1,10 +1,13 @@
 const checksum = (input) => {
-  const rows = input.split('\n').map(x => x.trim());
+  const rows = input
+    .split('\n')
+    .map(x => x.trim()
+      .split(/[\s\t]+/)
+      .map(y => parseInt(y, 10)));
   let checksum = 0;
 
   for (let i = 0; i < rows.length; i++) {
-    let temprow = rows[i].split(/[\s\t]+/).map(x => parseInt(x, 10));
-    checksum += Math.max(...temprow) - Math.min(...temprow);
+    checksum += Math.max(...rows[i]) - Math.min(...rows[i]);
   }
   return checksum;
 }
