@@ -9,7 +9,11 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 ## Days
 
-- [Day 1: Inverse Captcha](https://github.com/adriennetacke/advent-of-code-2017/tree/master/2017/day-one)
+- [Day 1: Inverse Captcha](https://github.com/adriennetacke/advent-of-code-2017/tree/master/day-1-inverse-captcha)
+- [Day 2: Corruption Checksum](https://github.com/adriennetacke/advent-of-code-2017/tree/master/day-2-corruption-checksum)
+- [Day 3: Spiral Memory](https://github.com/adriennetacke/advent-of-code-2017/tree/master/day-3-spiral-memory)
+- [Day 4: High Entropy Passphrases](https://github.com/adriennetacke/advent-of-code-2017/tree/master/day-4-high-entropy-passphrases)
+- [Day 5: A Maze of Twisty Trampolines](https://github.com/adriennetacke/advent-of-code-2017/tree/master/day-5-a-maze-of-twisty-trampolines)
 
 ## Running Tests
 
