@@ -1,5 +1,5 @@
 const assert = require('assert');
-const twistyTrampoline = require('/twisty-trampoline');
+const twistyTrampoline = require('./twisty-trampoline');
 
 describe ('Day Five - Get Out of Maze One', () => {
   it('should calculate required steps', () => {
