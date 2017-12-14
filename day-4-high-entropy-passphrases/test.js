@@ -1,6 +1,6 @@
 const assert = require('assert');
 const passphrase = require('./passphrase');
-const passphraseTwo = require('./passphrase-two.js');
+const passphraseTwo = require('./passphrase-two');
 
 describe ('Day Four - Passphrases Without Duplicates', () => {
   it('should validate passphrase list one', () => {
