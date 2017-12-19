@@ -14,6 +14,8 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 - [Day 3: Spiral Memory](https://github.com/adriennetacke/advent-of-code-2017/tree/master/day-3-spiral-memory)
 - [Day 4: High Entropy Passphrases](https://github.com/adriennetacke/advent-of-code-2017/tree/master/day-4-high-entropy-passphrases)
 - [Day 5: A Maze of Twisty Trampolines](https://github.com/adriennetacke/advent-of-code-2017/tree/master/day-5-a-maze-of-twisty-trampolines)
+- [Day 6: Memory Reallocation](https://github.com/adriennetacke/advent-of-code-2017/tree/master/day-6-memory-reallocation)
+- [Day 7: Recursive Circus](https://github.com/adriennetacke/advent-of-code-2017/tree/master/day-7-recursive-circus)
 
 ## Running Tests
 
