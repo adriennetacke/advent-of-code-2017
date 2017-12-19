@@ -3,7 +3,7 @@ const memory = require('./recursive');
 
 describe('Day Seven - Recursive Circus', () => {
   it('should find name of bottom program', () => {
-      const memoryBanks =
+      const list =
       `pbga (66)
        xhth (57)
        ebii (61)
@@ -18,6 +18,6 @@ describe('Day Seven - Recursive Circus', () => {
        gyxo (61)
        cntj (57)`;
 
-      assert.equal(memory(memoryBanks), 5);
+      assert.equal(recursive(list), 'tknk');
   });
 });
