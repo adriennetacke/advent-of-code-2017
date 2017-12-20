@@ -1,5 +1,5 @@
 const assert = require('assert');
-const memory = require('./recursive');
+const recursive = require('./recursive');
 
 describe('Day Seven - Recursive Circus', () => {
   it('should find name of bottom program', () => {
